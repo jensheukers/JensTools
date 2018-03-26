@@ -1,0 +1,7 @@
+C:\Users\Jens - School\Documents\projects\TileMapToImage\TileMapToImage\bin\Debug\TileMapToImage.exe.config
+C:\Users\Jens - School\Documents\projects\TileMapToImage\TileMapToImage\bin\Debug\TileMapToImage.exe
+C:\Users\Jens - School\Documents\projects\TileMapToImage\TileMapToImage\bin\Debug\TileMapToImage.pdb
+C:\Users\Jens - School\Documents\projects\TileMapToImage\TileMapToImage\obj\Debug\TileMapToImage.csprojResolveAssemblyReference.cache
+C:\Users\Jens - School\Documents\projects\TileMapToImage\TileMapToImage\obj\Debug\TileMapToImage.csproj.CoreCompileInputs.cache
+C:\Users\Jens - School\Documents\projects\TileMapToImage\TileMapToImage\obj\Debug\TileMapToImage.exe
+C:\Users\Jens - School\Documents\projects\TileMapToImage\TileMapToImage\obj\Debug\TileMapToImage.pdb
